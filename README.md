@@ -60,3 +60,24 @@ Wireframes generally fall into two main categories, each serving different purpo
 
 The wireframe developed here is a **[insert type: Low-Fidelity / High-Fidelity]** wireframe.  
 - **Reasoning:** [Explain why — e.g., if it’s focused on structure and layout, it’s low-fidelity; if it includes realistic content and looks close to the final design, it’s high-fidelity.]  
+
+## Wireframing Tools
+
+There are several tools available for creating wireframes, each offering unique features that help designers and developers plan effective user interfaces. Some popular options include:
+
+- **Balsamiq**: Known for its sketch-like style that emphasizes quick, low-fidelity wireframes.  
+- **Adobe XD**: Provides powerful design and prototyping capabilities, with smooth integration into the Adobe ecosystem.  
+- **Sketch**: Popular among Mac users for creating vector-based UI designs and wireframes.  
+- **Figma**: A collaborative, browser-based tool that has become one of the most widely used platforms for wireframing and prototyping.
+
+### Why Figma?
+
+Figma stands out as a recommended tool for this project because it combines accessibility, collaboration, and versatility:  
+
+- **Cloud-Based & Cross-Platform**: Works directly in the browser and across operating systems, with real-time saving and syncing.  
+- **Collaboration-Friendly**: Multiple team members can work on the same file simultaneously, making it easy to brainstorm and iterate together.  
+- **Rich Feature Set**: Supports both low-fidelity wireframes and high-fidelity designs with interactive prototypes.  
+- **Version Control**: Tracks design changes and allows easy rollbacks, similar to Git for developers.  
+- **Community Resources**: Offers a vast library of community-made templates, icons, and UI kits that speed up the design process.  
+
+By using Figma, designers can move seamlessly from rough wireframes to fully interactive prototypes, ensuring that ideas evolve efficiently from concept to execution.
