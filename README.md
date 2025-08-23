@@ -2,6 +2,7 @@
 ## Introduction to Wireframing
 
 Developed by [Albright Sunguti](https://albright-portfolio.vercel.app/)
+
 Wireframing is the process of creating a simplified visual guide that represents the layout and structure of a digital product, such as a website or mobile application. It serves as the blueprint of a design, showing where key elements like navigation, content, and functionality will be placed—without focusing on colors, images, or final styling.
 
 ## Importance in the Design Process
