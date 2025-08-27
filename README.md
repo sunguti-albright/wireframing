@@ -1,7 +1,7 @@
-# Figmify: From Wireframe to Prototype
 
 ## Introduction to Wireframing
 
+Developed by [Albright Sunguti](https://albright-portfolio.vercel.app/)
 Wireframing is the process of creating a simplified visual guide that represents the layout and structure of a digital product, such as a website or mobile application. It serves as the blueprint of a design, showing where key elements like navigation, content, and functionality will be placed—without focusing on colors, images, or final styling.
 
 ## Importance in the Design Process
@@ -132,3 +132,9 @@ Because this problem was caught at the wireframe stage, the team avoided impleme
 
 ### Conclusion
 This scenario highlights how wireframing acts as a **safety net** in the design process. By catching usability issues early, wireframes ensure that products are both functional and user-friendly. In practice, wireframing bridges the gap between ideas and execution, aligning design and development teams while keeping the user’s needs at the center of the product lifecycle.
+
+---
+
+## Developed By
+
+[Albright Sunguti](https://albright-portfolio.vercel.app/)
